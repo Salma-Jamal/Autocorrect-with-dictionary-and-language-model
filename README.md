@@ -16,7 +16,7 @@ Marbert (batch) | 670k Word| :heavy_multiplication_x: | -- | ---
 
 
 # Pipeline
-The Encoded Sentence is fed into the algorithm. Inputs enables word beam search decoding Fucntion to create a dictionary and LM. Different settings control how the LM scores the beams (text candidates) and how many beams are kept per time-step. The algorithm outputs the decoded text. The following illustration shows the pipeline. <br/>
+The Encoded Sentence is fed into the algorithm. Inputs enables word beam search decoding Fucntion to create a dictionary and LM. Different settings control how the LM scores the beams (text candidates) and how many beams are kept per time-step. The algorithm outputs the decoded text. The following illustration shows the pipeline. <br/> <br/>
 ![Pipeline](pipeline/xx.PNG)
 
 
